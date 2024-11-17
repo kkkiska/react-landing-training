@@ -1,9 +1,9 @@
 import './post.css'
 
 
-export default function({link, imgPath, category, title, date, author, description}) {
+export default function({link, imgPath, category, title, date, author, description, type}) {
     return (
-        <a href={link} className='post'>
+        <a href={link} className={type === 'large' ? 'post large' : 'post'}>
             <figure className='post-container'>
                 <img src={imgPath} alt="" />
                 <figcaption className="post-info-container">

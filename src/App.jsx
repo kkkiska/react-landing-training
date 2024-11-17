@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Header from './components/header/Header';
+import TagsSection from './components/sidebar/tags/TagsSection';
 import Footer from './components/footer/Footer';
 import SectionPosts from './components/section-posts/SectionPosts';
 import CategorySection from './components/sidebar/categories/CategorySection';
@@ -29,6 +30,7 @@ export default function App() {
         <SectionPosts />
         <aside className="sidebar">
           <CategorySection />
+          <TagsSection />
         </aside>
       </section>
     </main>

@@ -13,6 +13,7 @@ export default function SectionPosts() {
                 date={post.date}
                 author={post.author}
                 description={post.description}
+                type={post.type}
             />)
 
     return (

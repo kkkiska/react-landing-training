@@ -69,6 +69,43 @@ export const postData = [
         author: 'Rickie Baroch',
         imgPath: imgPath7,
         link: '#',
-        description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem'
-    }
+        description: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem',
+        type: 'large'
+    },
+    {
+        category: 'Tourism',
+        title: 'One of Saturn’s largest rings may be newer than anyone',
+        date: (new Date(2019, 5, 6)).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
+        author: 'Rickie Baroch',
+        imgPath: imgPath1,
+        link: '#',
+        description: ''
+    },
+    {
+        category: 'sport',
+        title: 'One of Saturn’s largest rings may be newer than anyone',
+        date: (new Date(2019, 5, 6)).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
+        author: 'Rickie Baroch',
+        imgPath: impPath2,
+        link: '#',
+        description: ''
+    },
+    {
+        category: 'fashion',
+        title: 'One of Saturn’s largest rings may be newer than anyone',
+        date: (new Date(2019, 5, 6)).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
+        author: 'Rickie Baroch',
+        imgPath: impPath3,
+        link: '#',
+        description: ''
+    },
+    {
+        category: 'clothes',
+        title: 'One of Saturn’s largest rings may be newer than anyone',
+        date: (new Date(2019, 5, 6)).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
+        author: 'Rickie Baroch',
+        imgPath: impPath4,
+        link: '#',
+        description: ''
+    },
     ]

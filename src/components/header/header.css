@@ -19,3 +19,12 @@
 .nav-item.active a, .nav-item:hover a {
     color: #C9A96E;
 }
+
+@media (max-width: 730px) {
+    .nav {
+      display: none;
+    }
+    .header-wrapper {
+        justify-content: center;
+    }
+  }
