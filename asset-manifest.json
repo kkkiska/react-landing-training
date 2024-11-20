@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-landing-training/static/css/main.b5c4748a.css",
+    "main.js": "/react-landing-training/static/js/main.17664381.js",
+    "static/media/main-section_background.png": "/react-landing-training/static/media/main-section_background.5b1e802d544873abfbe0.png",
+    "static/media/post7.jpg": "/react-landing-training/static/media/post7.c7bd69b8bd1c6f38d2a3.jpg",
+    "static/media/post3.png": "/react-landing-training/static/media/post3.64313222bd2593c9ae98.png",
+    "static/media/post2.png": "/react-landing-training/static/media/post2.0f4e0c64390d06312a41.png",
+    "static/media/post6.png": "/react-landing-training/static/media/post6.039c817b5added16ad80.png",
+    "static/media/post5.png": "/react-landing-training/static/media/post5.f530c06af31c22650fb8.png",
+    "static/media/post4.png": "/react-landing-training/static/media/post4.a623ea27463069d14ef1.png",
+    "static/media/post1.jpg": "/react-landing-training/static/media/post1.d87142c54d3fa7a6ae93.jpg",
+    "static/media/logo.svg": "/react-landing-training/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-landing-training/index.html",
+    "main.b5c4748a.css.map": "/react-landing-training/static/css/main.b5c4748a.css.map",
+    "main.17664381.js.map": "/react-landing-training/static/js/main.17664381.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5c4748a.css",
+    "static/js/main.17664381.js"
+  ]
+}
